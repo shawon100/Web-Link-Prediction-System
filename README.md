@@ -1,17 +1,20 @@
-# Button-Generator
-This is a simple real time button generator by bootstrap and jquery
+# Web Link Prediction System
+This is a web link prediction system. I have used my browser history as a dataset. You can use your browser history and generate prediction database by using prediction model code.  URL Classification has not been ready for production yet. But the Research part of the URL Classification system is ready. Soon it will be available for production.
+
+<img src="https://media.giphy.com/media/7zAIkF2ZsdjTJi7htC/giphy.gif"/>
 
 
 # Demo
 
-<a href="https://shawon100.github.io/Button-Generator/index.html">Button Generator</a>
+<a href="http://myresearch.epizy.com/">Online Demo</a>
 
-# Install And Description
-```
-Automatic BootStrap CDN is generated When Button Code is generated. 
-So you need to on internet connection and Then just copy and paste
-generated code. 
+# Prediction Model Code
 
-You Can see the change of button when you will edit propery
+Code: https://www.kaggle.com/shawon10/web-link-prediction-from-browser-history
+Paper: https://www.researchgate.net/publication/331320808_Web_Links_Prediction_And_Category-Wise_Recommendation_Based_On_Browser_History
 
-```
+# URL Classification System
+Code: https://www.kaggle.com/shawon10/url-classification-by-naive-bayes
+Paper: https://www.researchgate.net/publication/330878207_Website_Classification_Using_Word_Based_Multiple_N_-Gram_Models_and_Random_Search_Oriented_Feature_Parameters
+
+
